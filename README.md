@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...h
 -->
 
 ### Now
@@ -20,7 +20,12 @@ Here are some ideas to get you started:
 
 ### 經歷
 📷 新莊高中媒體服務隊 - 小編 & 活動節目組 \
-金融投資實驗室 研究員
+📖 金融投資實驗室 研究員
+
+### 專長技能
+語文能力：多益655分 \
+電腦技能：Word, Excel, PowerPoint, 威力導演, Final Cut \
+打字速度：English 24 Wpm / Chinese 44WPM (輸入法: 注音)
 
 ### 信箱
 📫 peichun17@gmail.com \
