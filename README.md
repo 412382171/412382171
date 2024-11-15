@@ -1,4 +1,4 @@
-## Hi there 👋
+ - Hi there 👋
 
 <!--
 **412382171/412382171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 輔仁大學 企業管理學系 二年級
 
 ### 經歷
-📷 媒體服務隊
+📷 新莊高中媒體服務隊
 
 ### 信箱
 📫 peichun17@gmail.com \
