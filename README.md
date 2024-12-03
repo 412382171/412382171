@@ -25,13 +25,15 @@ Here are some ideas to get you started:
 ### 專長技能
 語文能力： \
 多益655分 \
-電腦技能： \
+
+電腦技能：
 - Word
 - Excel
 - PowerPoint
 - Adobe Premiere
 - 威力導演
 - Final Cut \
+
 打字速度： \
 English 24 Wpm / Chinese 44WPM (輸入法: 注音)
 
