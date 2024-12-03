@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 📖 金融投資實驗室 研究員
 
 ### 專長技能
-語文能力：
-多益655分
+語文能力：多益655分
 
 電腦技能：
 - Word
@@ -35,7 +34,8 @@ Here are some ideas to get you started:
 - Final Cut
 
 打字速度：
-English 24 Wpm / Chinese 44WPM (輸入法: 注音)
+- English 24 Wpm
+- Chinese 44WPM (輸入法: 注音)
 
 ### 信箱
 📫 peichun17@gmail.com \
