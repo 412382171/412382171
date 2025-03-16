@@ -30,12 +30,11 @@ Here are some ideas to get you started:
 - Excel
 - PowerPoint
 - Adobe Premiere
-- 威力導演
 - Final Cut
 
 打字速度：
 - English 24 Wpm
-- Chinese 44WPM (輸入法: 注音)
+- Chinese 44WPM (輸入法：注音)
 
 ### 信箱
 📫 peichun17@gmail.com \
